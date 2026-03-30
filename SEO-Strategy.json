@@ -1,0 +1,22 @@
+{
+  "strategy": "Local Dominance - Dinajpur",
+  "target_keywords": [
+    "Home Tutor Dinajpur",
+    "Best Tutoring Agency Dinajpur",
+    "Math Tutor Balubari",
+    "Physics Tutor Suihari",
+    "Medical Admission Prep Dinajpur"
+  ],
+  "content_clusters": [
+    {
+      "topic": "Academic Excellence",
+      "pages": ["/engineering-physics", "/math-specialists", "/medical-prep"]
+    },
+    {
+      "topic": "Local Areas",
+      "pages": ["/area/balubari", "/area/suihari", "/area/mission-road"]
+    }
+  ],
+  "schema_type": "LocalBusiness",
+  "mobile_optimization": "Galaxy A54 Priority"
+}

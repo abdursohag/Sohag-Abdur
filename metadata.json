@@ -1,0 +1,7 @@
+{
+  "name": "Tutor Tech - Dinajpur",
+  "description": "Dinajpur's #1 Rated Home Tutoring Agency. Connecting expert tutors with students for academic excellence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
